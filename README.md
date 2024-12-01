@@ -1,6 +1,6 @@
-#Making future predictions using python.
+# Making future predictions using python.
 
-###Project Overview.
+### Project Overview.
 Turtle games is a gaming manufacturer and retailer that is keen to improve their overall sales performance. With the data provided, they would like to know:
 - How their customers engage with and accumulate loyalty points.
 - How the customers can be segmented into groups and how those groups can be targeted by the marketing department.
