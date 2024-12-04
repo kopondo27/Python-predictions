@@ -16,6 +16,10 @@ Turtle games is a gaming manufacturer and retailer that is keen to improve their
 - How the customers can be segmented into groups and how those groups can be targeted by the marketing department.
 - How text data such as customer reviews can  be used to  inform marketing campaigns and make improvements to the business.
 - How descriptive statistics can be used to provide insights into the suitability of the loyalty points data to create predictive models (e.g. normal distribution, skewness, or kurtosis) to justify the answer.
+![feature_importances_in_decision_tree_regressor](https://github.com/user-attachments/assets/b1d05dc7-9663-4fc1-aab2-49ed8b14f1e5)
+
+![pay-vs-loyalty-points](https://github.com/user-attachments/assets/e0958ffe-c87e-4c4e-b6fe-28f6541d9a7b)
+
 
 ### Data Source
   The company provide two datasets:
