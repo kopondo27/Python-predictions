@@ -27,11 +27,11 @@ Turtle games is a gaming manufacturer and retailer that is keen to improve their
 
  ### Data Cleaning and Preparation
 
-    1. Load the needed file onto the notebook
-    2. Sense-check the data in the file
-    3. handle missing values.
-    4. get more information of the file and a ssummary of the statistics.
-    5. Remove unnecessary files and rename others
+    - Load the needed file onto the notebook
+    - Sense-check the data in the file
+    - handle missing values.
+    - get more information of the file and a ssummary of the statistics.
+    - Remove unnecessary files and rename others
     
 ### Exploratory Data Analysis
 (please see the uploaded jupiter notebook for the code)
